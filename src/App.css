@@ -1,0 +1,8 @@
+.bgMain{
+  background-image: url(./assets/Poster.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.searchbar::placeholder{
+  color: white;
+}
